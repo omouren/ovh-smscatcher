@@ -2,6 +2,8 @@
 
 Viewer in Vue.js to mock OVH SMS Api and to avoid real sms sends.
 
+![OVH SmsCatcher](https://raw.githubusercontent.com/omouren/ovh-smscatcher/master/screenshot.png)
+
 ## Build Setup
 
 ``` bash
